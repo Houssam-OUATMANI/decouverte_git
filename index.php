@@ -2,6 +2,7 @@
 
 echo "Fichier modifié";
 
+
 echo "un autre echo";
 
 echo "un changement";
@@ -24,3 +25,6 @@ echo "changement depuis la branch master";
     git restore <filename>
     git reset
 */
+
+
+echo "changement de puis la branche auth";
