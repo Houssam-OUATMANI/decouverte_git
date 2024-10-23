@@ -7,6 +7,8 @@ echo "un autre echo";
 echo "un changement";
 
 
+echo "changement depuis la branch master";
+
 // *** Créer un dépôt Git sur ton ordinateur et y ajouter des fichiers.
 // *** Ajoute 5 commits
 
